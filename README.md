@@ -1,5 +1,7 @@
 # PermitFlow Assessment
 
+Walkthrough: https://www.loom.com/share/71cf01b942fe4c919dc314d42bc12e85
+
 # Deliverables
 #### 1. UI & API Interaction
 
